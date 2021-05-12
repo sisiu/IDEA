@@ -5,5 +5,5 @@ package com.atuguigu.git;
  * @date:2021/5/12-{18:06}
  */
 public class Apple {
-
+    private int age = 18;
 }
