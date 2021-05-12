@@ -6,6 +6,6 @@ package com.atguigu.test;
  */
 public class GoodTest {
     public void test() {
-        int a = 1;
+        int a = 2;
     }
 }
